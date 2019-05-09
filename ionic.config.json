@@ -1,5 +1,7 @@
 {
   "name": "railroad-crossing-map",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
